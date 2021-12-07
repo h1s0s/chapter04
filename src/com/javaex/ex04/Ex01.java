@@ -6,7 +6,7 @@ import java.util.List;
 public class Ex01 {
 
 	public static void main(String[] args) {
-		// ArrayList 1
+		// 1. ArrayList
 		
 		Point p01 = new Point(2,2);
 		Point p02 = new Point(3,3);
