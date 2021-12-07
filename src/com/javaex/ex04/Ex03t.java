@@ -3,7 +3,7 @@ package com.javaex.ex04;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Ex031 {
+public class Ex03t {
 
 	public static void main(String[] args) {
 		// 로또만들기-강사님 코드
